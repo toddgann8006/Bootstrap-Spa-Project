@@ -1,0 +1,48 @@
+.first-image{
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    font-family: "Open Sans", sans-serif; }
+    
+h1{
+    padding-left: 150px;
+    padding-top: 150px;
+}
+
+.header-text{
+    color: rgb(17,113,130);
+}
+
+.paragraph-text{
+    color:rgb(66, 175, 194);
+}
+
+.h2-services{
+    padding-left: 150px;
+    padding-top: 150px;
+}
+
+
+.services-links{
+    text-decoration: none;
+    color: rgb(66, 175, 194);
+}
+
+.site-footer {
+    background-color: rgb(66, 175, 194);
+}
+
+.icons{
+    color:black;
+}
+.bg-1 {
+    background-color: rgb(66, 175, 194);
+}
+
+.make-appointment{
+    background-color: rgb(66, 175, 194); 
+    text-decoration: none;
+    color: white;
+}
