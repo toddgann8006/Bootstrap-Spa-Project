@@ -1,50 +1,40 @@
-.first-image{
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat:no-repeat;
-background-position:center;
-}
+.first-image {
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
 
 body {
-    font-family: "Open Sans", sans-serif; }
-    
-h1{
-    padding-left: 150px;
-    padding-top: 150px;
-}
+  font-family: "Open Sans", sans-serif; }
 
-.header-text{
-    color: rgb(17,113,130);
-}
+h1 {
+  padding-left: 150px;
+  padding-top: 150px; }
 
-.paragraph-text{
-    color:rgb(66, 175, 194);
-}
+.header-text {
+  color: #117182; }
 
-.h2-services{
-    padding-left: 150px;
-    padding-top: 150px;
-}
+.paragraph-text {
+  color: #42afc2; }
 
+.h2-services {
+  padding-left: 150px;
+  padding-top: 150px; }
 
-.services-links{
-    text-decoration: none;
-    color: rgb(66, 175, 194);
-}
+.services-links {
+  text-decoration: none;
+  color: #42afc2; }
 
 .site-footer {
-    background-color: rgb(66, 175, 194);
-}
+  background-color: #42afc2; }
 
-.icons{
-    color:black;
-}
+.icons {
+  color: black; }
+
 .bg-1 {
-    background-color: rgb(66, 175, 194);
-}
+  background-color: #42afc2; }
 
-.make-appointment{
-    background-color: rgb(66, 175, 194); 
-    text-decoration: none;
-    color: white;
-}
+.make-appointment {
+  background-color: #42afc2;
+  text-decoration: none;
+  color: white; }
